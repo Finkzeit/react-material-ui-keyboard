@@ -42,7 +42,6 @@ main.js
 __*/*.js
 Dev/*.js
 src/*.js
-index.js
 *.map
 /*/*.d.ts
 coverage
