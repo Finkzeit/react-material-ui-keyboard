@@ -43,12 +43,8 @@ __*/*.js
 Dev/*.js
 src/*.js
 index.js
-Keyboard.js
-KeyboardKey.js
-layouts.js
-ActiveElement.js
 *.map
-*.d.ts
+/*/*.d.ts
 coverage
 lcov.info
 .vscode
